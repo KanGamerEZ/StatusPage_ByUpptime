@@ -1,6 +1,6 @@
 # Change these first
 owner: Kan014 # Your GitHub organization or username, where this repository lives
-repo: Kan014 # The name of this repository
+repo: StatusPage_ByUpptime # The name of this repository
 
 sites:
   - name: Google
